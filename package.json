@@ -1,6 +1,7 @@
 {
   "name": "react-loc-analyzer",
-  "version": "1.0.0",
+  "version": "1.0.1",
+
   "description": "Analyze lines of code in React projects with detailed statistics",
   "main": "src/index.js",
   "bin": {
@@ -17,7 +18,7 @@
     "statistics",
     "code-metrics"
   ],
-  "author": "Your Name",
+  "author":"Amir Valizadeh",
   "license": "MIT",
   "dependencies": {
     "commander": "^11.0.0",
