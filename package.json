@@ -1,0 +1,27 @@
+{
+  "name": "react-loc-analyzer",
+  "version": "1.0.0",
+  "description": "Analyze lines of code in React projects with detailed statistics",
+  "main": "src/index.js",
+  "bin": {
+    "react-loc": "bin/cli.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node bin/cli.js"
+  },
+  "keywords": [
+    "react",
+    "lines-of-code",
+    "analysis",
+    "statistics",
+    "code-metrics"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "ora": "^7.0.1",
+    "chalk": "^5.3.0"
+  }
+}
