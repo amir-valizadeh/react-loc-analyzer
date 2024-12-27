@@ -1,7 +1,7 @@
 {
   "name": "react-loc-analyzer",
-  "version": "1.0.1",
-
+  "version": "1.0.2",
+  "repository": "github:amir-valizadeh/react-loc-analyzer",
   "description": "Analyze lines of code in React projects with detailed statistics",
   "main": "src/index.js",
   "bin": {
